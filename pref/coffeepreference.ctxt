@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sugar\ creamer
+comment0.target=coffeepreference(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ coffeepreference\r\n
+comment1.params=
+comment1.target=void\ showPreference()
+comment1.text=\ this\ prints\ out\ user's\ preference\r\n\ \ the\ parameter\ is\ the\ int\ values\ input\r\n\ system.out.println(\ "Number\ of\ Days"\ +\ numDays"\r\n
+numComments=2
